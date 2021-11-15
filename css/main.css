@@ -582,7 +582,7 @@ footer.nb-footer .copyright p {
     height: 350px;
   }
 }
-@media (max-width:1024px){
+/* @media (max-width:1024px){
   .img-wrapper:nth-child(1) img {
     padding-bottom: 80px;
     margin-left: 20px;
@@ -613,7 +613,7 @@ footer.nb-footer .copyright p {
   .animal-container .swiper-slide-active .text-wrapper span {
     margin-left: 30px;
   }
-}
+} */
 @media (max-width:1920px){
   .img-wrapper:nth-child(1) img {
     margin-top: -15px;
